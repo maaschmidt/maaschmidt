@@ -1,5 +1,5 @@
 ## Olá, sou Marcel Schmidt
-#
+
 - 🖥 Entusiasta de desenvolvimento de sistemas
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas | Univates
 - 💾 Aluno da 1ª turma do CRIE-TI | Univates
@@ -17,7 +17,7 @@
   </div>
   <div>
     <a href="https://github.com/maaschmidt">
-      <img style="width: 44rem" alt="octocat" src="./assets/octocat-coffee.png" />
+      <img style="width: 40rem" alt="octocat" src="./assets/octocat-coffee.png" />
     </a>
   </div>
 </div>
