@@ -10,16 +10,14 @@
 <div style="display:flex">
   <div>
     <a href="https://github.com/maaschmidt">
-      <img style="width: 40rem" alt="octocat" src="./assets/octocat-coffee.png" />
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/maaschmidt">
       <img style="display:block; margin-bottom: 1rem" src="https://github-readme-stats.vercel.app/api?username=maaschmidt&show_icons=true&count_private=true&theme=github_dark&title_color=39D253&icon_color=39D253&border_color=39D253&random=&randomss524272" />
       <img style="display:block; margin-bottom: 1rem"src="https://github-readme-streak-stats.herokuapp.com?user=maaschmidt&theme=github-dark&locale=pt-br&date_format=j%2Fn%5B%2FY%5D&fire=075F03&stroke=11690C" />
       <img style="display:block; margin-bottom: 1rem"src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaschmidt&layout=compact&langs_count=5&hide=html&theme=github_dark&title_color=39D253&icon_color=39D253&border_color=39D253" />
     </a>
   </div>
+    <a href="https://github.com/maaschmidt">
+      <img style="width: 30rem" alt="octocat" src="./assets/octocat-coffee.png" />
+    </a>
 </div>
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript-logo" />](https://github.com/maaschmidt)
