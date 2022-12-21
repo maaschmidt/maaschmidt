@@ -7,14 +7,11 @@
 
 <br />
 
-<div style="display:flex">
+<div align="center">
   <a href="https://github.com/maaschmidt">
     <img style="display:block; margin-bottom: 1rem" src="https://github-readme-stats.vercel.app/api?username=maaschmidt&show_icons=true&count_private=true&theme=github_dark&title_color=39D253&icon_color=39D253&border_color=39D253&random=&randomss524272" />
     <img style="display:block; margin-bottom: 1rem"src="https://github-readme-streak-stats.herokuapp.com?user=maaschmidt&theme=github-dark&locale=pt-br&date_format=j%2Fn%5B%2FY%5D&fire=075F03&stroke=11690C" />
     <img style="display:block; margin-bottom: 1rem"src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaschmidt&layout=compact&langs_count=5&hide=html&theme=github_dark&title_color=39D253&icon_color=39D253&border_color=39D253" />
-  </a>
-  <a href="https://github.com/maaschmidt">
-    <img style="width: 30rem" alt="octocat" src="./assets/octocat-coffee.png" />
   </a>
 </div>
 
@@ -37,6 +34,9 @@
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/maaschmidt)
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/maaschmidt_)
 
+  <a href="https://github.com/maaschmidt">
+    <img style="width: 30rem" alt="octocat" src="./assets/octocat-coffee.png" />
+  </a>
 <!-- ## Other Stuff -->
 
 <!-- [![Visitas](https://badges.strrl.dev/visits/maaschmidt/maaschmidt?style=for-the-badge&color=39D253)](https://github.com/maaschmidt/maaschmidt) -->
