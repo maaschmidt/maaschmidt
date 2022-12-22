@@ -23,7 +23,8 @@
 [<img height="30" width="42" alt="java-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />](https://www.java.com/pt-BR/download/help/whatis_java.html)
 <!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker-logo" />](https://www.docker.com/) -->
 
-![Snake animation](https://github.com/maaschmidt/maaschmidt/blob/output/github-contribution-grid-snake.svg)
+![Dark Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Light Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 [<img alt="visits" src="https://komarev.com/ghpvc/?username=maaschmidt&label=VISITAS&style=for-the-badge&color=39D253" />](https://linkedin.com/in/maaschmidt)
 
