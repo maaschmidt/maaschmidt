@@ -1,9 +1,8 @@
 ## Olá, sou Marcel Schmidt
 
-- 🖥 Entusiasta de desenvolvimento de sistemas
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas | Univates
+- 🖥 Desenvolvedor Full Stack
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas | Univates
 - 💾 Aluno da 1ª turma do CRIE-TI | Univates
-- 🧔🏻‍♂️ Pronomes: ele/dele
 
 ---
 
