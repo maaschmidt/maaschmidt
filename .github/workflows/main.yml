@@ -3,7 +3,7 @@ name: Generate Datas
 on:
   # run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 */24 * * *" 
   
   workflow_dispatch:
   # run on every push on the master branch
