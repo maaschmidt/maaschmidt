@@ -18,7 +18,7 @@
 [<img height="30" width="42" alt="javascript-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="30" width="42" alt="html-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="30" width="42" alt="css-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[<img height="30" width="42" alt="react-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](https://pt-br.reactjs.org)
+[<img height="30" width="42" alt="react-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](https://react.dev)
 [<img height="30" width="42" alt="android-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />](https://www.android.com/intl/pt-BR_br)
 [<img height="30" width="42" alt="apple-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />](https://www.apple.com/br)
 [<img height="30" width="42" alt="java-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />](https://www.java.com/pt-BR/download/help/whatis_java.html)
