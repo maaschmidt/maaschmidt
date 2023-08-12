@@ -1,19 +1,10 @@
 ## Olá, sou Marcel Schmidt
 
 - 🖥 Desenvolvedor Full Stack
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas | Univates
-- 💾 Aluno da 1ª turma do CRIE-TI | Univates
+- 🌱 Cursando Superior em Análise e Desenvolvimento de Sistemas | Univates
+- 💾 Aluno da 1ª turma da Formação Intensiva e Imersiva CRIE-TI | Univates (1200 horas)
 
 ---
-
-<!-- 
-[<img src="https://github-readme-stats.vercel.app/api?username=maaschmidt&show_icons=true&count_private=true&theme=github_dark&title_color=39D253&icon_color=39D253&border_color=39D253&random=&randomss524272"/>](https://github.com/maaschmidt)
-
-[<img src="https://github-readme-streak-stats.herokuapp.com?user=maaschmidt&theme=github-dark&locale=pt-br&date_format=j%2Fn%5B%2FY%5D&fire=075F03&stroke=11690C"/>](https://github.com/maaschmidt)
-
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaschmidt&layout=compact&langs_count=5&hide=html&theme=github_dark&title_color=39D253&icon_color=39D253&border_color=39D253"/>](https://github.com/maaschmidt)
--->
-
 [<img height="30" width="42" alt="typescript-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org)
 [<img height="30" width="42" alt="javascript-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="30" width="42" alt="html-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -22,7 +13,6 @@
 [<img height="30" width="42" alt="android-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />](https://www.android.com/intl/pt-BR_br)
 [<img height="30" width="42" alt="apple-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />](https://www.apple.com/br)
 [<img height="30" width="42" alt="java-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />](https://www.java.com/pt-BR/download/help/whatis_java.html)
-<!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker-logo" />](https://www.docker.com/) -->
 
 ![Dark Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Light Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
