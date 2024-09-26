@@ -1,7 +1,7 @@
 ## Olá, sou Marcel Schmidt
 
 - 🖥 Desenvolvedor Full Stack
-- 🌱 Cursando Superior em Análise e Desenvolvimento de Sistemas | Univates
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas | Univates
 - 💾 Aluno da 1ª turma da Formação Intensiva e Imersiva CRIE-TI | Univates (1200 horas)
 
 ---
@@ -24,7 +24,6 @@
 ### Conecte-se comigo
 
 [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/maaschmidt)
-[<img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/maaschmidt_)
 [<img alt="gmail" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" />](mailto:maaschmidt1@gmail.com)
 
 [<img style="width: 32rem" alt="octocat" src="./assets/octocat-coffee.png" />](https://github.com/maaschmidt)
